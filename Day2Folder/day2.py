@@ -9,11 +9,12 @@ for count in range(100):
 
 ########################################################################
 # Task 2:
-name = "Jovan".upper()
-for letter in name:
-    print("give me a " + letter + "!")
-print("who is the best??!?")
-print(name + "!!!")
+def cheer:
+    name = "Jovan".upper()
+    for letter in name:
+        print("give me a " + letter + "!")
+    print("who is the best??!?")
+    print(name + "!!!")
 
 ########################################################################
 # Task 3:
