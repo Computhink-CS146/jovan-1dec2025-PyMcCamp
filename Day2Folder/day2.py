@@ -9,7 +9,8 @@ for count in range(100):
 
 ########################################################################
 # Task 2:
-def cheer(name):
+    name = "Jovan".upper()
+def cheer():
     name = "Jovan".upper()
     for letter in name:
         print("give me a " + letter + "!")
