@@ -64,4 +64,4 @@ for count in range(5,101,5):
     print(count)
 
 for count in range(100,-1,-2):
-    print
+    print(count)
