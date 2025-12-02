@@ -1,47 +1,47 @@
-# # # Write all your codes for Day 2 here.
-# # # COMMENT out the previous task before going on to the next task
-# # print("hello from day2")
+# # # # Write all your codes for Day 2 here.
+# # # # COMMENT out the previous task before going on to the next task
+# # # print("hello from day2")
+
+# # # ########################################################################
+# # # # Task 1:
+# # # for count in range(100):
+# # #     print("i will sling mud at my friends")
+
+# # # ########################################################################
+# # # # Task 2:
+# # # name = "Jovan".upper()
+# # # def cheer(name):
+# # #     for letter in name:
+# # #         print("give me a " + letter + "!")
+# # #     print("who is the best??!?")
+# # #     print(name + "!!!")
+# # # cheer(name)
 
 # # ########################################################################
-# # # Task 1:
-# # for count in range(100):
-# #     print("i will sling mud at my friends")
+# # # Task 3:
+# # for count in range(1000):
+# #     print(count)
 
-# # ########################################################################
-# # # Task 2:
-# # name = "Jovan".upper()
-# # def cheer(name):
-# #     for letter in name:
-# #         print("give me a " + letter + "!")
-# #     print("who is the best??!?")
-# #     print(name + "!!!")
-# # cheer(name)
 
 # ########################################################################
-# # Task 3:
-# for count in range(1000):
+# # Task 4:
+# for count in range(0,11):
 #     print(count)
 
 
-########################################################################
-# Task 4:
-for count in range(0,11):
-    print(count)
-
-
-########################################################################
-# Task 5:
-for count in range(5,33):
-    print(count)
+# ########################################################################
+# # Task 5:
+# for count in range(5,33):
+#     print(count)
 
 
 
-########################################################################
-# Task 6:
-for count in range(50,0,-1):
-    print(count)
+# ########################################################################
+# # Task 6:
+# for count in range(50,0,-1):
+#     print(count)
 
 
 
-########################################################################
-# Additional exercises:
+# ########################################################################
+# # Additional exercises:
