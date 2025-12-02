@@ -12,7 +12,7 @@ for count in range(100):
 name = "Jovan".upper()
 for letter in name:
     print("give me a " + letter + "!")
-
+print()
 
 ########################################################################
 # Task 3:
