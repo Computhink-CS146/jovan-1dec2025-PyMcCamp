@@ -47,10 +47,13 @@
 # # Additional exercises:
 for count in range(67):
     print(count)
+for count in range(67):
+    print(count)
+for count in range(67):
+    print(count)
 
-
-
-
+for count in range(67):
+    print(count)
 
 
 
