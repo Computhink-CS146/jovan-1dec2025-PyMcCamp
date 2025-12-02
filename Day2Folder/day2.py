@@ -19,7 +19,7 @@ cheer(name)
 
 ########################################################################
 # Task 3:
-for count in range(999):
+for count in range(99):
     print(count)
 
 
