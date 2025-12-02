@@ -15,7 +15,7 @@ def cheer(name):
         print("give me a " + letter + "!")
     print("who is the best??!?")
     print(name + "!!!")
-cheer(name)
+cheer()
 
 ########################################################################
 # Task 3:
