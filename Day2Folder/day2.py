@@ -4,7 +4,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for count in range(input(int(""))):
+for count in range(10):
     print("i will sling mud at my friends")
 
 ########################################################################
