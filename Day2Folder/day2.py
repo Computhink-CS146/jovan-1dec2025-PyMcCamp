@@ -55,9 +55,9 @@ for count in range(65,100):
     print(count)
 for count in range(2,33,2):
     print(count)
-for count in range():
+for count in range(5,101,5):
     print(count)
-for count in range(67):
+for count in range():
     print(count)
 
 
