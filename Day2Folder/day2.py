@@ -45,7 +45,7 @@
 
 # ########################################################################
 # # Additional exercises:
-for count in range(10):
+for count in range(67):
     print(count)
 
 
