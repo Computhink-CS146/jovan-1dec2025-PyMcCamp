@@ -49,7 +49,7 @@ for count in range(67):
     print(count)
 for count in range(101):
     print(count)
-for count in range(67):
+for count in range(7,33):
     print(count)
 for count in range(67):
     print(count)
