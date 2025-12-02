@@ -10,13 +10,13 @@ for count in range(100):
 ########################################################################
 # Task 2:
 name = "Jovan".upper()
-def cheer():
+def cheer(name):
     name = "Jovan".upper()
     for letter in name:
         print("give me a " + letter + "!")
     print("who is the best??!?")
     print(name + "!!!")
-cheer()
+cheer(name)
 
 ########################################################################
 # Task 3:
